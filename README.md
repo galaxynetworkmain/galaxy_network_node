@@ -18,5 +18,5 @@
 #见《scanner_api_1.0.0.doc》
 ##8.节点源码
 #gn-blockchain-node 项目为 spring boot 项目
-##8.启动命令
-#java -jar -Xms1024m -Xmx4096m gn-blockchain-node-0.0.1.jar
+##9.节点部署
+#见文档《节点部署文档.docx》

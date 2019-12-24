@@ -671,17 +671,17 @@
 					<target>1.8</target>
 				</configuration>
 			</plugin>
-			
 			<plugin>
-				<artifactId>maven-source-plugin</artifactId>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+				<version>1.5.16.RELEASE</version>
 				<configuration>
-					<attach>true</attach>
+					<mainClass>org.gn.blockchain.Application</mainClass>
 				</configuration>
 				<executions>
 					<execution>
-						<phase>compile</phase>
 						<goals>
-							<goal>jar</goal>
+							<goal>repackage</goal>
 						</goals>
 					</execution>
 				</executions>
