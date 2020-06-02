@@ -13,11 +13,16 @@
 ##5.github地址：
 #https://github.com/galaxynetworkmain/galaxy_network_node.git
 ##6.区块链浏览器： 
-#http://47.75.204.70
-##7.API接口文档： 
-#见《scanner_api_1.0.0.doc》
-##8.节点源码
-#gn-blockchain-node 项目为 spring boot 项目
+#http://new.gnchain.com/
+##7.节点源码
+#gn-blockchain-node
+##8.可执行jar包
+#gn-blockchain-node-0.0.1.zip
+#-->gn-blockchain-node-0.0.1.jar
+#-->start.sh
+#-->start.bat
+#-->config
+#---->blockchain.conf
 ##9.节点部署
-#见文档《节点部署文档.docx》
+#见文档《GN节点资料汇总.docx》
 
